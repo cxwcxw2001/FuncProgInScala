@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set(/Users/xiaoweichen/Coursera/FuncProgramInScala/recfun/src/main/scala/recfun/Main.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(recfun.Main)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(recfun.Main)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from recfun.Main...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(recfun.Main)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(recfun.Main)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(recfun.Main,ModifiedNames(changes = UsedName(synchronized,[Default]), UsedName(notify,[Default]), UsedName(##,[Default]), UsedName($isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName(toString,[Default]), UsedName(notifyAll,[Default]), UsedName(finalize,[Default]), UsedName(pascal,[Default]), UsedName(countChange,[Default]), UsedName(Main,[Default]), UsedName(==,[Default]), UsedName(isInstanceOf,[Default]), UsedName($asInstanceOf,[Default]), UsedName(wait,[Default]), UsedName(getClass,[Default]), UsedName(!=,[Default]), UsedName(asInstanceOf,[Default]), UsedName(clone,[Default]), UsedName(hashCode,[Default]), UsedName(ne,[Default]), UsedName(balance,[Default]), UsedName(eq,[Default]))) invalidates 1 classes due to The recfun.Main has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(synchronized,[Default]), UsedName(notify,[Default]), UsedName(##,[Default]), UsedName($isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName(toString,[Default]), UsedName(notifyAll,[Default]), UsedName(finalize,[Default]), UsedName(pascal,[Default]), UsedName(countChange,[Default]), UsedName(Main,[Default]), UsedName(==,[Default]), UsedName(isInstanceOf,[Default]), UsedName($asInstanceOf,[Default]), UsedName(wait,[Default]), UsedName(getClass,[Default]), UsedName(!=,[Default]), UsedName(asInstanceOf,[Default]), UsedName(clone,[Default]), UsedName(hashCode,[Default]), UsedName(ne,[Default]), UsedName(balance,[Default]), UsedName(eq,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(recfun.Main)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m
